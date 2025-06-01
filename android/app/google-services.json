@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "324487940700",
+    "firebase_url": "https://movietracker-fec75-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "movietracker-fec75",
+    "storage_bucket": "movietracker-fec75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324487940700:android:d659fd5df7572c91a57499",
+        "android_client_info": {
+          "package_name": "com.example.movie_tracers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMRNbbKX_oqEcM3Sgc8Cv2VNXw7prVMmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
