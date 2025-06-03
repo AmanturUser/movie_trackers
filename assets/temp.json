@@ -1,0 +1,10 @@
+{
+  "v1": {
+    "mode": "prod",
+    "url": "http://microsoft.com"
+  },
+  "v2": {
+    "mode": "prod",
+    "url": "http://google.com"
+  }
+}
